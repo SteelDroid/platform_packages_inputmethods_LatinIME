@@ -38,7 +38,6 @@ import android.preference.PreferenceManager;
 import android.speech.SpeechRecognizer;
 import android.text.ClipboardManager;
 import android.text.TextUtils;
-import android.text.AndroidCharacter;
 import android.util.DisplayMetrics;
 import android.util.Log;
 import android.util.PrintWriterPrinter;
